@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RootFolder label="COREGEN" treetype="folder" language="COREGEN">
+	<Folder label="VERILOG Component Instantiation" treetype="folder">
+		<Template label="crc16_parallel_coregen" treetype="template">
+		</Template>
+		<Template label="coregen" treetype="template">
+		</Template>
+	</Folder>
+	<Folder label="VHDL Component Instantiation" treetype="folder">
+		<Template label="crc16_parallel_coregen" treetype="template">
+		</Template>
+		<Template label="coregen" treetype="template">
+		</Template>
+	</Folder>
+</RootFolder>

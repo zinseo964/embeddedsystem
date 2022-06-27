@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="Xst" num="898" delta="unknown" >&quot;<arg fmt="%s" index="1">CRC_16_parallel.v</arg>&quot; line <arg fmt="%d" index="2">63</arg>: The reset or set test condition for &lt;<arg fmt="%s" index="3">crc_reg</arg>&gt; is incompatible with the event declaration in the sensitivity list.
+</msg>
+
+<msg type="error" file="Xst" num="898" delta="unknown" >&quot;<arg fmt="%s" index="1">CRC_16_parallel.v</arg>&quot; line <arg fmt="%d" index="2">64</arg>: The reset or set test condition for &lt;<arg fmt="%s" index="3">state</arg>&gt; is incompatible with the event declaration in the sensitivity list.
+</msg>
+
+<msg type="error" file="Xst" num="898" delta="unknown" >&quot;<arg fmt="%s" index="1">CRC_16_parallel.v</arg>&quot; line <arg fmt="%d" index="2">65</arg>: The reset or set test condition for &lt;<arg fmt="%s" index="3">count</arg>&gt; is incompatible with the event declaration in the sensitivity list.
+</msg>
+
+<msg type="error" file="Xst" num="898" delta="unknown" >&quot;<arg fmt="%s" index="1">CRC_16_parallel.v</arg>&quot; line <arg fmt="%d" index="2">68</arg>: The reset or set test condition for &lt;<arg fmt="%s" index="3">crc_out</arg>&gt; is incompatible with the event declaration in the sensitivity list.
+</msg>
+
+</messages>

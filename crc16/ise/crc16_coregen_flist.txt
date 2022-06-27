@@ -1,0 +1,6 @@
+# Output products list for <crc16_coregen>
+crc16_coregen.edn
+crc16_coregen.v
+crc16_coregen.veo
+crc16_coregen.xco
+crc16_coregen_flist.txt

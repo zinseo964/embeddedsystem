@@ -1,0 +1,69 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SM-PC/Desktop/crc16
+vCRC
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 gAi>PGIVo9K?8K6IlU3CZ3
+I3H:JMZ[658kC@9R[L5l0]1
+R0
+w1655877382
+8C:/Users/SM-PC/Desktop/crc16/crc16.v
+FC:/Users/SM-PC/Desktop/crc16/crc16.v
+L0 1
+Z2 OL;L;10.3;59
+!s108 1655877410.647000
+!s107 C:/Users/SM-PC/Desktop/crc16/crc16.v|
+!s90 -reportprogress|300|-nostats|-work|work|-vopt|C:/Users/SM-PC/Desktop/crc16/crc16.v|
+!i111 0
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@c@r@c
+vcrc_test
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 KGE?7R_bVFDKQhl08R<zn0
+IfS=m7db4U;KIgDn:oQCXK0
+R0
+w1655827961
+Z4 8C:/Users/SM-PC/Desktop/crc16/crc16_tb.v
+Z5 FC:/Users/SM-PC/Desktop/crc16/crc16_tb.v
+L0 3
+R2
+!s108 1655828116.934000
+Z6 !s107 C:/Users/SM-PC/Desktop/crc16/crc16_tb.v|
+Z7 !s90 -reportprogress|300|-nostats|-work|work|-vopt|C:/Users/SM-PC/Desktop/crc16/crc16_tb.v|
+!i111 0
+R3
+vCRC_TEST
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 cH[iFJ>2^F98><JaZ6W;i2
+I6kFBI58eHJz6W9hC8=kQE0
+R0
+w1655877405
+R4
+R5
+L0 1
+R2
+!s108 1655877410.709000
+R6
+R7
+!i111 0
+R3
+n@c@r@c_@t@e@s@t

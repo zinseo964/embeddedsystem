@@ -1,0 +1,46 @@
+# BEGIN Project Options
+SET flowvendor = Other
+SET vhdlsim = False
+SET verilogsim = True
+SET workingdirectory = C:\Users\IEUser\Desktop\crc16_parallel\coregen\tmp
+SET speedgrade = -5
+SET simulationfiles = Behavioral
+SET asysymbol = False
+SET addpads = False
+SET device = xc2v8000
+SET implementationfiletype = Edif
+SET busformat = BusFormatAngleBracketNotRipped
+SET foundationsym = False
+SET package = ff1152
+SET createndf = False
+SET designentry = Verilog
+SET devicefamily = virtex2
+SET formalverification = False
+SET removerpms = False
+# END Project Options
+# BEGIN Select
+SELECT Linear_Feedback_Shift_Register family Xilinx,_Inc. 3.0
+# END Select
+# BEGIN Parameters
+CSET asynchronous_reset_value=FFFF
+CSET create_rpm=false
+CSET asynchronous_reset=true
+CSET load_type=Load_Type_Parallel
+CSET synchronous_reset=false
+CSET clock_enable=true
+CSET data_valid_output=false
+CSET lfsr_size=16
+CSET tap_locations=100B
+CSET component_name=crc16_parallel
+CSET use_counter_for_max_length_logic=false
+CSET synchronous_reset_value=FFFF
+CSET implementation=Registers
+CSET feedback_gate_type=X_OR
+CSET new_seed_output=false
+CSET use_maximum_length_logic=true
+CSET terminal_count_output=false
+CSET lfsr_type=Galois
+CSET output_type=Output_Type_Parallel
+# END Parameters
+GENERATE
+

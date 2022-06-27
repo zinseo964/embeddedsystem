@@ -1,0 +1,350 @@
+# Reading C:/modeltech64_10.3/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.3 Jan  7 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile C:/Users/SM-PC/Desktop/crc16/crc16.mpf 
+# Loading project crc16
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 11:41:16 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.CRC_TEST
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 19
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 19
+quit -sim
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:09:10 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+quit -sim
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:25:09 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 20
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:38:11 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 22
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:40:35 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Causality operation skipped due to absence of debug database file
+# Break key hit 
+# Break in Module CRC at C:/Users/SM-PC/Desktop/crc16/crc16.v line 32
+restart -f
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:43:26 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 23
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:46:11 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC at C:/Users/SM-PC/Desktop/crc16/crc16.v line 32
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:53:27 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+# Break key hit 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 13:58:48 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:00:38 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+# Load canceled
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 23
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+restart -f
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:03:01 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.CRC_TEST
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+quit -sim
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:09:57 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 18
+restart -f
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:26:07 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 22
+restart -f
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:27:35 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# Break key hit 
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 22
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:32:17 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# ** Note: $finish    : C:/Users/SM-PC/Desktop/crc16/crc16_tb.v(20)
+#    Time: 1720 ns  Iteration: 0  Instance: /CRC_TEST
+# 1
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 20
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:37:06 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# ** Note: $finish    : C:/Users/SM-PC/Desktop/crc16/crc16_tb.v(21)
+#    Time: 1720 ns  Iteration: 0  Instance: /CRC_TEST
+# 1
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 21
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:40:33 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# ** Note: $finish    : C:/Users/SM-PC/Desktop/crc16/crc16_tb.v(21)
+#    Time: 1720 ns  Iteration: 0  Instance: /CRC_TEST
+# 1
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 21
+quit -sim
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of crc16.v was successful.
+# Compile of crc16_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.CRC_TEST
+# vsim -gui -novopt work.CRC_TEST 
+# Start time: 14:56:59 on Jun 22,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC_TEST
+# Loading work.CRC_TEST
+# Refreshing C:/Users/SM-PC/Desktop/crc16/work.CRC
+# Loading work.CRC
+add wave -r sim:/CRC_TEST/*
+run -all
+# ** Note: $finish    : C:/Users/SM-PC/Desktop/crc16/crc16_tb.v(23)
+#    Time: 1720 ns  Iteration: 0  Instance: /CRC_TEST
+# 1
+# Break in Module CRC_TEST at C:/Users/SM-PC/Desktop/crc16/crc16_tb.v line 23
+quit -sim
